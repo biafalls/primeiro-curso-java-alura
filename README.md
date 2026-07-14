@@ -4,6 +4,40 @@ Este repositório reúne os principais conceitos estudados durante o curso **Jav
 Criando a sua primeira aplicação**, desde a instalação da linguagem até os fundamentos necessários para desenvolver aplicações no IntelliJ IDEA.
 
 ---
+# ☕ Java - Primeiros Passos
+
+Este repositório reúne os principais conceitos estudados durante os primeiros módulos de **Java**, desde a instalação da linguagem até os fundamentos necessários para desenvolver aplicações utilizando o IntelliJ IDEA.
+
+---
+
+# 📚 Sumário
+
+- [O que é Java?](#-o-que-é-java)
+- [Instalando o Java (JDK 17)](#-instalando-o-java-jdk-17)
+- [O que significa LTS?](#-o-que-significa-lts)
+- [JDK, JRE e JVM](#-jdk-jre-e-jvm)
+- [Como funciona a execução de um programa Java](#-como-funciona-a-execução-de-um-programa-java)
+- [IntelliJ IDEA](#-intellij-idea)
+- [Estrutura do Projeto (SRC)](#-estrutura-do-projeto-src)
+- [Variáveis](#-variáveis)
+- [Tipos Primitivos](#-tipos-primitivos)
+- [String](#-string)
+- [Operadores de Incremento](#-operadores-de-incremento)
+- [Text Blocks](#-text-blocks)
+- [.formatted()](#-formatted)
+- [String.format()](#-stringformat)
+- [Comparando Strings](#-comparando-strings)
+- [Casting](#-casting)
+- [Scanner](#-scanner)
+- [Estruturas Condicionais](#-estruturas-condicionais)
+- [Estruturas de Repetição](#-estruturas-de-repetição-loops)
+- [Palavras-chave](#-palavras-chave-keywords)
+- [Convenções de Código Java](#-convenções-de-código-java)
+- [Boas Práticas](#-boas-práticas)
+- [Resumo](#-resumo)
+
+---
+
 
 # O que é Java?
 
@@ -692,29 +726,5 @@ numero++;
 ---
 
 # Resumo
-
-Durante esta etapa foram estudados os principais fundamentos da linguagem Java:
-
-- Instalação do Java 17 LTS
-- IntelliJ IDEA
-- Estrutura de projetos
-- Pasta `src`
-- JDK, JRE e JVM
-- Processo de compilação e execução
-- Variáveis
-- Tipos primitivos
-- Strings
-- Comparação de Strings
-- Casting
-- Scanner
-- Condicionais
-- Loops
-- Text Blocks
-- `.formatted()`
-- `String.format()`
-- Operadores de incremento
-- Palavras-chave
-- Convenções de código Java
-- Boas práticas de programação
 
 Esses conceitos formam a base para o desenvolvimento de aplicações Java e serão utilizados em tópicos mais avançados, como orientação a objetos, coleções, tratamento de exceções e desenvolvimento com Spring Boot.
